@@ -51,8 +51,8 @@ function myCard() {
                 break;
             case 2:
                 image.src = "../images/2.jpg";
-                name = "The Lecture Hall"
-                bio = "The Lecture Hall is where Dr. Wilson teaches.";
+                name = "Aaron Franke"
+                bio = "This is Aaron Franke, a guy who's really good at programming and Linux.";
                 break;
             case 3:
                 image.src = "../images/3.jpg";
